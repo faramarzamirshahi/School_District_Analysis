@@ -1,5 +1,8 @@
 # My changes
+.vscode/
 .DS_Store
+pandas_practice.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
