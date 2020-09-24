@@ -48,3 +48,7 @@ Scores by school size before and after removing the 9th graders
 Scores by school type before and after removing the 9th graders
 ![Scores by school type before](Resources/ScoresBySchoolTypeBefore.png)
 ![Scores by school type after](Resources/ScoresBySchoolTypeAfter.png)
+
+## Summary: 
+We only noticed a fractional change in the scores for the school district analysis
+after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
